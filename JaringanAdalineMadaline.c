@@ -1,5 +1,7 @@
 /*
  * Author : Didik Hadumi Setiaji
+ * Project : Adaptive Neural Network
+ *
  */
 
 #include <stdio.h>
