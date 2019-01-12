@@ -1,3 +1,7 @@
+/*
+ * Author   : Didik Hadumi Setiaji
+ * Project  : Back Propagation Network
+ */
 #include <stdio.h>
 #include <math.h>
 #define JUMLAHX 3

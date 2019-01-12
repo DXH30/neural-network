@@ -1,3 +1,7 @@
+/*
+ * Author : Didik Hadumi Setiaji
+ */
+
 #include <stdio.h>
 double fungsiaktifasi(double x){
  if (x < 0)

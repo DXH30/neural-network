@@ -1,3 +1,9 @@
+/* 
+ * Author : Didik Hadumi Setiaji
+ * Project : Hebb Neural Network (LOGIC GATE)
+ *
+ */
+
 #include <stdio.h>
 int main()
 {
